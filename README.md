@@ -1,2 +1,3 @@
 # book
-This repository collates graphics rendering related technical papers, books and other related materials.
+本仓库收集图形渲染、编程相关的书籍、论文以及其它形式的资料。
+部分较大文件以及网页链接以博客链接的形式保存在各个子目录的.txt文件中。
