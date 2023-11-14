@@ -1,0 +1,6 @@
+IBL
+IBL Cubemap Texel SolidAngle			https://zhuanlan.zhihu.com/p/631012376
+IBL Importance Sampling				https://zhuanlan.zhihu.com/p/632392281
+IBL Diffuse BRDF Integration - Irradiance Map		https://zhuanlan.zhihu.com/p/633079678
+IBL Specular BRDF Integration			https://zhuanlan.zhihu.com/p/633322700
+IBL Diffuse BRDF Integration - Spherical Harmonics	https://zhuanlan.zhihu.com/p/634388440

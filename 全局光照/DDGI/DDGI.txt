@@ -1,0 +1,5 @@
+DDGI
+Precomputed Radiance Transfer Theory and Practice			https://zhuanlan.zhihu.com/p/637505750
+Precomputed Light Field Probes					https://zhuanlan.zhihu.com/p/638249660
+Dynamic Diffuse Global Illumination with Ray-Traced Irradiance Fields	https://zhuanlan.zhihu.com/p/640825766
+RTX Global Illumination						https://zhuanlan.zhihu.com/p/641866064
